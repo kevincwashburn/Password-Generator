@@ -9,4 +9,5 @@ Once the user clicks the 'generate password' button, the windwow will list a ser
 
 Once the user has clicked through the series of criteria prompts, the application will generate the password in the box.
 
+Screenshot Link:
  ![alt-text](link here)
